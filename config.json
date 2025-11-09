@@ -1,0 +1,26 @@
+{
+    "bot": {
+        "name": "Nasa Yuzaki",
+        "version": "2.0.0",
+        "developer": "Ghost Developer",
+        "github": "https://github.com/CHICO-CP",
+        "telegramChannel": "https://t.me/GhostDev",
+        "telegramGroup": "https://t.me/CodeBreakersHub",
+        "supportServer": "https://discord.gg/yourserver"
+    },
+    "defaultSettings": {
+        "prefix": "/",
+        "language": "en",
+        "welcomeChannel": "welcome",
+        "logChannel": "logs",
+        "modRole": "Moderator",
+        "adminRole": "Administrator"
+    },
+    "colors": {
+        "primary": 0x0099FF,
+        "success": 0x00FF00,
+        "error": 0xFF0000,
+        "warning": 0xFFFF00,
+        "info": 0x0099FF
+    }
+}

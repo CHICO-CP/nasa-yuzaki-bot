@@ -1,0 +1,42 @@
+{
+    "name": "nasa-yuzaki-bot",
+    "version": "2.0.0",
+    "description": "Nasa Yuzaki - Professional Discord Bot with Music, Moderation, and Utility features",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "nodemon src/index.js",
+        "deploy": "node deploy-commands.js",
+        "setup": "npm install && node deploy-commands.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "@discordjs/voice": "^0.16.0",
+        "dotenv": "^16.3.1",
+        "quick.db": "^9.1.6",
+        "ms": "^2.1.3",
+        "axios": "^1.5.0",
+        "canvas": "^2.11.2",
+        "ffmpeg-static": "^5.2.0",
+        "libsodium-wrappers": "^0.7.13",
+        "opusscript": "^0.0.8"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "nasa",
+        "yuzaki",
+        "music",
+        "moderation",
+        "utility"
+    ],
+    "author": "Ghost Developer",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CHICO-CP/nasa-yuzaki-bot"
+    }
+}
