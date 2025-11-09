@@ -322,17 +322,14 @@ Please use our [GitHub Issues](https://github.com/CHICO-CP/nasa-yuzaki-bot/issue
 ## 📞 Support & Community
 
 ### 🌐 Official Links
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
-**Source Code**: [nasa-yuzaki-bot](https://github.com/CHICO-CP/nasa-yuzaki-bot)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/CHICO-CP/nasa-yuzaki-bot)
 
-![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=telegram&logoColor=white)
-**Updates Channel**: [Ghost Developer](https://t.me/GhostDev)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=telegram&logoColor=white)](https://t.me/GhostDev)
 
-![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?logo=telegram&logoColor=white)
-**Community Group**: [CodeBreakersHub](https://t.me/CodeBreakersHub)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?logo=telegram&logoColor=white)](https://t.me/CodeBreakersHub)
 
-![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)
-**Support Server**: [Discord](https://discord.gg/SHjF9qw9)
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/SHjF9qw9)
+
 
 ### 🆘 Getting Help
 1. Check the `#help` channel in our Discord server
@@ -383,6 +380,6 @@ If you find NASA Yuzaki useful, please consider giving it a star on GitHub!
 **NASA Yuzaki** - *Professional Discord Bot Framework* 🚀
 
 ![Footer](https://img.shields.io/badge/Made_with-❤️_-FF6B6B?logo=heart&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-NASA_Yuzaki-5865F2?logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-NASA_Yuzaki-5865F2?logo=discord&logoColor=white)](https://discord.gg/SHjF9qw9)
 
 </div>
